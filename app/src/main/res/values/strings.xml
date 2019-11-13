@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gym Tracker</string>
+    <string name="edit_message">Rickyism</string>
+    <string name="button_generate">Generate</string>
+</resources>
